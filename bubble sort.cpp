@@ -3,7 +3,7 @@
  using namespace std;
 
 int main(){
-   int array [] = (62,8,95,11,30,45,80,89,22);
+   int array[] = {42, 7, 91, 15, 63, 28, 3, 77, 50};
    int n = 9;
     for (int i = 0; i < n-1; i++)
     {
